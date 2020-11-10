@@ -169,3 +169,7 @@ hr {
     height: 1px;
  
   }
+
+  @media only screen and (max-width: 768px) {
+    .headerText {display:none;}
+  }
